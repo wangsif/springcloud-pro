@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springcloud-Project.iml" filepath="$PROJECT_DIR$/.idea/Springcloud-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-config/pro-config.iml" filepath="$PROJECT_DIR$/pro-config/pro-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-service/pro-elasticSearch/pro-elasticSearch.iml" filepath="$PROJECT_DIR$/pro-service/pro-elasticSearch/pro-elasticSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-eureka/pro-eureka.iml" filepath="$PROJECT_DIR$/pro-eureka/pro-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-gateway/pro-gateway.iml" filepath="$PROJECT_DIR$/pro-gateway/pro-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pro-service/pro-service.iml" filepath="$PROJECT_DIR$/pro-service/pro-service.iml" />
+    </modules>
+  </component>
+</project>
